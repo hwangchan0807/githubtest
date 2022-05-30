@@ -1,5 +1,12 @@
 # 개인 이력사항
 ---
-![이력서사진]<img src=f1.jpg height=150 width=150>
+<img src=f1.jpg height=150 width=150>
+황찬
+
+---
+소속 : 소프트웨어융합대학
+
+전공 : 빅데이터 전공
+
 
 

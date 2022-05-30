@@ -1,6 +1,6 @@
 # 인적사항
 ---
-<img src=f1.jpg height=350 width=350>
+<img src=자기소개.png height=350 width=350>
 황찬(20195282)
 
 ---
@@ -12,7 +12,7 @@
 
 이메일 : hwangchan0807@daum.net
 
-깃허브주소 : http://hwangchan0807.github.com
+깃허브주소 : [http://hwangchan0807.github.com](https://github.com/hwangchan0807)
 
 ---
 프로그래밍 언어 스킬

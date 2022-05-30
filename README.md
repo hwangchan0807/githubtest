@@ -1,6 +1,6 @@
 # <인적사항>
 ---
-<img src=자기소개.png height=250 width=350>
+<img src=자기소개.png height=400 width=350>
 황찬(20195282)
 
 ---
